@@ -1,4 +1,4 @@
-👋 Hi, I’m @gr3yj0rd1
+👋 Hi, I’m @f1g0n4cc1
 
 👀 I’m passionate about software engineering, cybersecurity, and crafting elegant, scalable solutions.
 
@@ -8,7 +8,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I got a job by simply saying to HR: Hire me.
+⚡ Fun fact: I got a job by simply saying to HR: It`s time to hire me.
 
 
 <!---
